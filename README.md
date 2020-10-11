@@ -1,3 +1,4 @@
+// Kommentar eingefügt
 # Über LMStudent
 
 Mein erstes Projekt auf GitHub als LMStudent. Hier erfährst du ein wenig über mich.
